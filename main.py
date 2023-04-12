@@ -34,7 +34,7 @@ def upload_file():
     <!doctype html>
     <html>
     <head>
-    <title>Завантаження файлу</title>
+    <title>Завантаження файлу: txt, pdf, png, jpg, jpeg, gif</title>
     </head>
     <body>
     <h1>Завантаження файлу</h1>
